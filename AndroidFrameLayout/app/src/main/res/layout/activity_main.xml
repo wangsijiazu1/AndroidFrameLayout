@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+
+    tools:context="com.yaoyao.studyframelayout.androidframelayout.MainActivity">
+
+    <TextView
+        android:id="@+id/view01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#f00"
+        android:width="320px"
+        android:height="320px"
+        />
+    <TextView
+        android:id="@+id/view02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#0f0"
+        android:width="280px"
+        android:height="280px"
+        />
+    <TextView
+        android:id="@+id/view03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#00f"
+        android:width="240px"
+        android:height="240px"
+        />
+    <TextView
+        android:id="@+id/view04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#f0f"
+        android:width="200px"
+        android:height="200px"
+        />
+    <TextView
+        android:id="@+id/view05"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#0ff"
+        android:width="160px"
+        android:height="160px"
+        />
+    <TextView
+        android:id="@+id/view06"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#0ff"
+        android:width="120px"
+        android:height="120px"
+        />
+</FrameLayout>
